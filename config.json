@@ -1,0 +1,38 @@
+{
+  "readmeUrl": "https://github.com/sayyedit/sayyedit/blob/main/README.md",
+  "title": "Portfolio",
+  "name": "Faisal Sayed",
+  "ascii": "Faixal",
+  "social": {
+    "github": "https://github.com/sayyedit",
+    "linkedin": "https://www.linkedin.com/in/sayyedfaisal"
+  },
+  "email": "mohammadfaisal.sayed1999@email.com",
+  "ps1_hostname": "faixal",
+  "ps1_username": "visitor",
+  "resume_url": "https://drive.google.com/file/d/1ce3buha0nJNw_h6CUBBgcu40ggiy9v0g/view",
+  "donate_urls": {
+    "paypal": "Please donate it to the needful...",
+    "patreon": ":)"
+  },
+  "colors": {
+    "light": {
+      "background": "#FFFFDB",
+      "foreground": "#282a36",
+      "yellow": "#ffb86c",
+      "green": "#50fa7b",
+      "gray": "#8B6BB9",
+      "blue": "#67AFC0",
+      "red": "#ff5555"
+    },
+    "dark": {
+      "background": "#282a36",
+      "foreground": "#f8f8f2",
+      "yellow": "#ffb86c",
+      "green": "#50fa7b",
+      "gray": "#bd93f9",
+      "blue": "#8be9fd",
+      "red": "#ff5555"
+    }
+  }
+}
